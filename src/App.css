@@ -8,6 +8,13 @@
   font-family: Inter-Regular;
 }
 
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
 .App{
   height: 450px;
   width: 600px;
@@ -66,7 +73,7 @@ h1{
   align-self: center;
 }
 
-.logo-name{
+.logoName{
   margin-right: auto;
   color: #61dafb;
   font-family: Inter-Bold;
