@@ -29,7 +29,7 @@ h1{
   font-family: Inter-Regular;
   font-size: 16px;
   font-weight: 400;
-  line-height: 19px;
+  line-height: 18px;
   letter-spacing: 0em;
   text-align: left;
 }
@@ -63,7 +63,7 @@ h1{
 
 .logo-name{
   margin-right: auto;
-  color: #61DAFB;
+  color: #61dafb;
   font-family: Inter-Bold;
   font-size: 22px;
   font-weight: 700;
